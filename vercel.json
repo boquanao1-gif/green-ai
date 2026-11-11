@@ -1,0 +1,10 @@
+{
+  "framework": "nextjs",
+  "regions": ["sin1", "hnd1"],
+  "functions": {
+    "app/api/**/*": {
+      "maxDuration": 60,
+      "memory": 1024
+    }
+  }
+}

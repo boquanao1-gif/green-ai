@@ -1,0 +1,6 @@
+{
+  "name": "GREEN AI - Phân Loại Rác Thông Minh",
+  "description": "Ứng dụng AI nhận diện và phân tích nhiều vật thể rác thải qua hình ảnh, hướng dẫn phân loại và tái chế bảo vệ môi trường.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
